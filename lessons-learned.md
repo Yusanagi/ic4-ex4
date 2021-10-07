@@ -1,0 +1,3 @@
+I found this lessons to be very useful since this is my first time using git and github. There were a few parts where I was confused on, but I think that was just only me.
+
+branches are part of the the entire projects, split up for better organization as they are still part of the bigger picture. What changes that happen in that branch stays in that branch. Pull lets me fetch changes from the repo and automatically changes my local repo to the remote one.
