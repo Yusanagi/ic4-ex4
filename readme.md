@@ -1,4 +1,4 @@
-‘Or yet in wise old Ravenclaw
-If you’ve a ready mind
-Where those of wit and learning
-Will always find their kind.’
+‘You might belong in Gryffindor,
+Where dwell the brave at heart,
+Their daring, nerve and chivalry
+Set Gryffindors apart.’
